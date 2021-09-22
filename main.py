@@ -49,9 +49,6 @@ if __name__ == "__main__":
     shortPause()
     print("you've already started...")
     
-    # while end != false:
-    #     print("")
-    
     
     
     
